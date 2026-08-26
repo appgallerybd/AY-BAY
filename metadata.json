@@ -1,0 +1,7 @@
+{
+  "name": "FinFlow",
+  "description": "Premium Income & Expense Manager with multi-currency, budgets, savings goals, debts, analytics, and bilingual support (বাংলা & English).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

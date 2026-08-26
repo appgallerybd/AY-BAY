@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wallet and Growth Icon centered strictly within 66dp safe zone (21 to 87) -->
+    <!-- Card / Wallet Body -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M33,35 C30.8,35 29,36.8 29,39 L29,69 C29,71.2 30.8,73 33,73 L75,73 C77.2,73 79,71.2 79,69 L79,39 C79,36.8 77.2,35 75,35 Z" />
+    <!-- Wallet Flap Accent -->
+    <path
+        android:fillColor="#FF004D40"
+        android:pathData="M31,43 L77,43 L77,47 L31,47 Z" />
+    <!-- Rising Chart / Flow Arrow -->
+    <path
+        android:fillColor="#FF26A69A"
+        android:pathData="M37,63 L47,53 L55,59 L69,45 L73,49 L73,38 L62,38 L66,42 L55,53 L47,47 L34,59 Z" />
+    <!-- Coin Token -->
+    <path
+        android:fillColor="#FFFFD54F"
+        android:pathData="M66,56m-5,0a5,5 0,1,1 10,0a5,5 0,1,1 -10,0" />
+</vector>
